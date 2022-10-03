@@ -1,0 +1,20 @@
+.navbar {
+  background-color: cornsilk !important;
+}
+
+.carousel {
+  width: 20cm;
+  height: 15cm;
+  margin-top: 30px;
+  margin-left: 10cm;
+}
+
+.links {
+  margin-left: 16.5cm;
+  margin-right: 19cm;
+  background-color: chartreuse;
+}
+
+body {
+  background-color: rgb(76, 172, 196) !important;
+}
